@@ -86,12 +86,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 [dalvarezArt]: https://www.behance.net/rikidalvarez
 [twitter]: https://twitter.com/ricardodalvarez
 [youtube]: https://www.youtube.com/channel/UCrtW7E_K9p9Qj2umu3doTPg/

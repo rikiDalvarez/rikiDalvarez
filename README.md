@@ -55,12 +55,17 @@ Currently i am working on the following projects:
 
 ---
 
-### 🎥 Latest Films
+### 🎥 Films
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
 ➡️ [all my films...](https://www.youtube.com/channel/UCrtW7E_K9p9Qj2umu3doTPg?view_as=subscriber)
+
+---
+### 💎 Mosaics
+
+➡️ [all my mosaics...](https://www.behance.net/gallery/29778085/Mosaics)
 
 ---
 

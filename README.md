@@ -10,7 +10,7 @@ Currently i am working on the following projects:
 
 ## Interesting things to know about me:
 
-- 🧑‍💻 I’m currently learning vue.js 🤣
+- 🧑‍💻 I’m currently learning vue.js
 - 👯 I’m looking to collaborate with other content creators on projects using nuxt.js
 - 🥅 2020 Goals: Contribute more to Open Source projects, build my ecommerce.
 - 👩🏼‍🌾 Nature and animal lover
@@ -60,7 +60,7 @@ Currently i am working on the following projects:
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-➡️ [more Films...](https://www.youtube.com/channel/UCrtW7E_K9p9Qj2umu3doTPg?view_as=subscriber)
+➡️ [all my films...](https://www.youtube.com/channel/UCrtW7E_K9p9Qj2umu3doTPg?view_as=subscriber)
 
 ---
 

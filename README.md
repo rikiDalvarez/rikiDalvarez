@@ -55,6 +55,10 @@
 
 <img align="left" alt="rikiDalvarez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rikiDalvarez&show_icons=true&hide_border=true" />
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikiDalvarez)](https://github.com/rikiDalvarez)
+
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
   

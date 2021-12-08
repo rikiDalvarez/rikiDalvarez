@@ -12,13 +12,13 @@ Currently i am working on the following projects:
 
 - 🧑‍💻 I’m currently learning vue.js
 - 👯 I’m looking to collaborate with other content creators on projects using nuxt.js
-- 🥅 2020 Goals: Contribute more to Open Source projects, build my ecommerce.
+- 🥅 2022 Goals: Contribute more to Open Source projects, build a boxing fight alert chrome extension
 - 👩🏼‍🌾 Nature and animal lover
 - 🎥 I'm a film director on my free time, and one of my dreams is to open a film school
 - 💎 I love working with stone creating mosaics
-- 🎮 Dota 2 lover, another dream of mine is to create a dota 2 team
-- 👨‍👩‍👧 I love spending time with my family.
-- ⚽️ I´m an exercise addcit and football is my passion.
+- 🎮 My favorite video game is Dota 2
+- 👨‍👩‍👧 I love spending time with my family
+- 🥊 I´m an exercise addcit and my main sport right now is boxing.
 - ⚫️🔴 Flamengo fan
 
 ### Connect with me:

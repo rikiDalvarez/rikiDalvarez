@@ -5,7 +5,7 @@ I'm a fast learner and a driven developer, that enjoys working as a team and loo
 
 Currently i am working on the following projects:
 - <a href="https://plantio.org/">Plantio Orgânico</a>
-- <a href="https://github.com/rikiDalvarez/FunFood"> FunFood</a>
+
 
 
 ## Interesting things to know about me:
@@ -18,7 +18,7 @@ Currently i am working on the following projects:
 - 💎 I love working with stone creating mosaics
 - 🎮 My favorite video game is Dota 2
 - 👨‍👩‍👧 I love spending time with my family
-- 🥊 I´m an exercise addcit and my main sport right now is boxing.
+- 🥊 I love to exercise and my main sport right now is boxing.
 - ⚫️🔴 Flamengo fan
 
 ### Connect with me:

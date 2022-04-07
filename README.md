@@ -1,6 +1,6 @@
 ### Hi there, I'm Ricardo Dutra Alvarez - aka [rikiDalvarez] 👋
 
-Driven Full-stack developer specialized in the JavaScript environment: React, Redux, Webpack, Node, Express, Koa, MongoDB, SQL, Postgres, Jest, GraphQL, Sequelize, Apollo Server.
+Driven Full-stack developer specialized in the JavaScript environment: React, Node, Express, Redux, Webpack, Koa, MongoDB, SQL, Postgres, Jest, GraphQL, Sequelize, Apollo Server.
 I'm a fast learner and a driven developer, that enjoys working as a team and look for tight schedules to get things done.
 
 Currently i am working on the following projects:
@@ -10,14 +10,12 @@ Currently i am working on the following projects:
 
 ## Interesting things to know about me:
 
-- 🧑‍💻 I’m currently learning vue.js
-- 👯 I’m looking to collaborate with other content creators on projects using nuxt.js
-- 🥅 2022 Goals: Contribute more to Open Source projects, build a boxing fight alert chrome extension
+- 🧑‍💻 I’m currently learning next.js
+- 🎖 2022 Goals: Create my blog and update my webpage
 - 👩🏼‍🌾 Nature and animal lover
 - 🎥 I'm a film director on my free time, and one of my dreams is to open a film school
-- 💎 I love working with stone creating mosaics
+- 💎 I love working with stone, creating mosaics
 - 🎮 My favorite video game is Dota 2
-- 👨‍👩‍👧 I love spending time with my family
 - 🥊 I love to exercise and my main sport right now is boxing.
 - ⚫️🔴 Flamengo fan
 

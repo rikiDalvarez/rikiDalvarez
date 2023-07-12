@@ -55,7 +55,7 @@ Currently i am working on the following projects:
 <!-- 
 </details> --> 
 
-<img align="left" alt="rikiDalvarez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rikiDalvarez&show_icons=true&hide_border=true" />
+<img alt="rikiDalvarez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rikiDalvarez&show_icons=true&hide_border=true" />
 
 [dalvarezArt]: https://www.behance.net/rikidalvarez
 [twitter]: https://twitter.com/ricardodalvarez

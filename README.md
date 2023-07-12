@@ -11,13 +11,9 @@ Currently i am working on the following projects:
 ### Connect with me:
 
 [<img align="left" alt="rikiDalvarez | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-youtube
 [<img align="left" alt="rikiDalvarez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-twitter
 [<img align="left" alt="rikiDalvarez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-linkedin
 [<img align="left" alt="rikiDalvarez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-instagram
 
 <br />
 

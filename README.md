@@ -55,6 +55,8 @@ Currently i am working on the following projects:
 <!-- 
 </details> --> 
 
+<img align="left" alt="rikiDalvarez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rikiDalvarez&show_icons=true&hide_border=true" />
+
 [dalvarezArt]: https://www.behance.net/rikidalvarez
 [twitter]: https://twitter.com/ricardodalvarez
 [youtube]: https://www.youtube.com/channel/UCrtW7E_K9p9Qj2umu3doTPg/
@@ -75,6 +77,4 @@ Currently i am working on the following projects:
 ➡️ [all my mosaics...](https://www.behance.net/gallery/29778085/Mosaics)
 
 ---
-
-<img align="left" alt="rikiDalvarez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rikiDalvarez&show_icons=true&hide_border=true" />
 

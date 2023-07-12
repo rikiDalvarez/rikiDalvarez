@@ -1,23 +1,12 @@
-### Hi there, I'm Ricardo Dutra Alvarez - aka [rikiDalvarez] 👋
+### Hi there, I'm Ricardo Dutra Alvarez 👋
 
-Driven Full-stack developer specialized in the JavaScript environment: React, Node, Express, Redux, Webpack, Koa, MongoDB, SQL, Postgres, Jest, GraphQL, Sequelize, Apollo Server.
+Driven Full-stack developer specialized in the JavaScript environment: Typescript, React, Node, Express, MongoDB, SQL...
+
 I'm a fast learner and a driven developer, that enjoys working as a team and look for tight schedules to get things done.
-
+My goal is to continue learning and improve myself as a developer. I love creating systems and models that helps improve the life of people and nature.
+I have a big passion for technology, sports and nature, therefore most of my work is about these topics.
 Currently i am working on the following projects:
 - <a href="https://plantio.org/">Plantio Orgânico</a>
-
-
-
-## Interesting things to know about me:
-
-- 🧑‍💻 I’m currently learning next.js
-- 🎖 2022 Goals: Create my blog and update my webpage
-- 👩🏼‍🌾 Nature and animal lover
-- 🎥 I'm a film director on my free time, and one of my dreams is to open a film school
-- 💎 I love working with stone, creating mosaics
-- 🎮 My favorite video game is Dota 2
-- 🥊 I love to exercise and my main sport right now is boxing.
-- ⚫️🔴 Flamengo fan
 
 ### Connect with me:
 

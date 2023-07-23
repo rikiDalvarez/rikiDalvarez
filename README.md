@@ -2,18 +2,16 @@
 
 Driven Full-stack developer specialized in the JavaScript environment: Typescript, React, Node, Express, MongoDB, SQL...
 
-I'm a fast learner and a driven developer, that enjoys working as a team and look for tight schedules to get things done.
-My goal is to continue learning and improve myself as a developer. I love creating systems and models that helps improve the life of people and nature.
-I have a big passion for technology, sports, art and nature; therefore most of my work is about these topics. 🤖⚽️🎭🌳
-Currently i am working on the following projects:
-- <a href="https://plantio.org/">Plantio Orgânico</a>
+I'm a fast learner and a driven developer, that enjoys working as a team and looking for tight schedules to get things done.
+My goal is to continue learning and improving myself as a developer. I love creating systems and models that help improve the life of people and nature.
+I have a big passion for technology, sports, art, and nature; therefore most of my work is about these topics. 🤖⚽️🎭🌳
+Currently, I am working on the following projects:
+- <a href="https://loja.plantio.org/">Plantio Orgânico</a>
 
 ### Connect with me:
 
-[<img align="left" alt="rikiDalvarez | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="rikiDalvarez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="rikiDalvarez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rikiDalvarez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="rikiDalvarez | YouTube" width="22px" src="ric.dalvarez@hotmail.com" />][email]
+
 
 <br />
 

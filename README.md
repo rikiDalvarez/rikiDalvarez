@@ -15,31 +15,16 @@ Currently, I am working on the following projects:
 
 ### Languages and Tools:
 
-<img align="left" alt="JavaScript" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
-<img align="left" alt="Bash" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" />
-<img align="left" alt="SQL" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" />
-<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Git" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
+| JavaScript | TypeScript | Bash | SQL | HTML5 | CSS3 | Git |
+| --- | --- | --- | --- | --- | --- | --- |
+| <img alt="JavaScript" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> | <img alt="TypeScript" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"> | <img alt="Bash" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg"> | <img alt="SQL" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg"> | <img alt="HTML5" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> | <img alt="CSS3" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> | <img alt="Git" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"> |
 
-<br/>
-<br/>
-<br/>
-<br/>
+| React | Node.js | GraphQL | MySQL | MongoDB | GitHub |
+| --- | --- | --- | --- | --- | --- |
+| <img alt="React" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> | <img alt="Node.js" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> | <img alt="GraphQL" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"> | <img alt="MySQL" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> | <img alt="MongoDB" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"> | <img alt="GitHub" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"> |
 
-<img align="left" alt="React" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="GraphQL" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="MySQL" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="GitHub" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 
 <br />
-<br />
-<br />
-<br />
-
 
 ### Github stats
 

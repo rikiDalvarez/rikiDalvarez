@@ -16,9 +16,7 @@ I have a big passion for technology, sports, art, and nature; therefore most of 
 Currently, I am working on the following projects:
 - <a href="https://loja.plantio.org/">Plantio Orgânico</a>
 
-### Connect with me:
-
- ric.dalvarez@hotmail.com
+contact me: ric.dalvarez@hotmail.com
 <br />
 
 ### Languages and Tools:

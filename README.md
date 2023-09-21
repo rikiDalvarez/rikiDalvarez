@@ -1,4 +1,9 @@
+
+
+<img src="https://github.com/rikiDalvarez/rikiDalvarez/assets/60649850/9a47dbbe-8851-4516-b7dc-69da35f7dd74" alt="sql" width="100%" />
+
 ### Hi there, I'm Ricardo Dutra Alvarez 👋
+
 
 Driven Full-stack developer specialized in the JavaScript environment: Typescript, React, Node, Express, MongoDB, SQL...
 

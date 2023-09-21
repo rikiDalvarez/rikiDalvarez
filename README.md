@@ -1,6 +1,6 @@
+[comment]: <> (https://github.com/rikiDalvarez/rikiDalvarez/assets/60649850/9a47dbbe-8851-4516-b7dc-69da35f7dd74)
 
-
-<img src="https://github.com/rikiDalvarez/rikiDalvarez/assets/60649850/9a47dbbe-8851-4516-b7dc-69da35f7dd74" alt="pattern" width="100%" />
+<img src="https://github.com/rikiDalvarez/rikiDalvarez/assets/60649850/ec9a4b2d-f29d-4ab8-bd39-94b7d77a4a78" alt="pattern" width="100%" />
 
 ### Hi there, I'm Ricardo Dutra Alvarez 👋
 

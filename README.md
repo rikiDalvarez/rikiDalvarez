@@ -7,16 +7,15 @@
 
 ### Hi there, I'm Ricardo Dutra Alvarez 👋
 
+I'm a driven Full-stack developer with a specialization in the JavaScript ecosystem, including Typescript, React, Node, Express, MongoDB, and SQL. My journey in the tech world is fueled by a passion for continuous learning and self-improvement.
 
-Driven Full-stack developer specialized in the JavaScript environment: Typescript, React, Node, Express, MongoDB, SQL...
+My work is a fusion of my logical thinking, creativity, and love for visuals, inspired by my deep connection with nature. As a former artist, I understand the importance of aesthetics and enjoy being part of the visual creative process. 🌱🎨
 
-I'm a fast learner and a driven developer, that enjoys working as a team and looking for tight schedules to get things done.
-My goal is to continue learning and improving myself as a developer. I love creating systems and models that help improve the life of people and nature.
-I have a big passion for technology, sports, art, and nature; therefore most of my work is about these topics. 🤖⚽️🎭🌳
-Currently, I am working on the following projects:
+My projects often revolve around my interests in technology, sports, art, and nature, with the goal of enhancing the lives of both people and the environment. 🤖⚽️🎭🌳 Currently, I'm actively involved in shaping the following project:
+
 - <a href="https://loja.plantio.org/">Plantio Orgânico</a>
 
-contact me: ric.dalvarez@hotmail.com
+Let's connect and collaborate! You can reach out to me at ric.dalvarez@hotmail.com.
 <br />
 
 ### Languages and Tools:

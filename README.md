@@ -63,7 +63,7 @@ Let's connect and collaborate! You can reach out to me at ric.dalvarez@hotmail.c
 <!-- YOUTUBE:END -->
 If you want to see more of my work outside of software development, make sure to check my:
 
-🎥 [Films](https://www.youtube.com/channel/UCrtW7E_K9p9Qj2umu3doTPg?view_as=subscriber)
+<a href="https://www.behance.net/user?username=rikidalvarez"><img src=""  alt="x"></img></a>
 
 💎 [Mosaics](https://www.behance.net/gallery/29778085/Mosaics)
 

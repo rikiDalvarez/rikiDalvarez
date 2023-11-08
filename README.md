@@ -63,9 +63,13 @@ Let's connect and collaborate! You can reach out to me at ric.dalvarez@hotmail.c
 <!-- YOUTUBE:END -->
 If you want to see more of my work outside of software development, make sure to check my:
 
-<a href="https://www.behance.net/user?username=rikidalvarez"><img src=""  alt="x"></img></a>
+<h1>Films</h1>
+<a href="https://www.behance.net/user?username=rikidalvarez"><img src="https://github.com/rikiDalvarez/rikiDalvarez/blob/main/public/Screenshot%202023-11-08%20at%2021.52.49.png"  alt="x"></img></a>
+<br />
+<br />
+<h1>Mosaics</h1>
+<a href="https://www.behance.net/gallery/29778085/Mosaics"><img src="https://github.com/rikiDalvarez/rikiDalvarez/blob/main/public/d51f1229778085.5609b1c6151c4.jpg"  alt="x"></img></a>
 
-💎 [Mosaics](https://www.behance.net/gallery/29778085/Mosaics)
 
 ---
 
